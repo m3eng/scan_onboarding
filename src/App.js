@@ -11,7 +11,7 @@ class App extends Component {
   componentDidMount() {
     const lib = new DVSOIDVC({
       el: "videoCapturingEl",
-      applicantId: "ff082841-75f1-49ed-b54a-ee1740f28fa4",
+      applicantId: "76851571-e9b1-4044-9168-5ce3c32f3a1a",
       domainId: "c4091080-1c30-4c73-49b7-08dbb14e8517",
       publicKey: "pk_274eb098-b9df-43f5-84d2-d48d389bfc0e",
       chunkPublicPath: "networks",
